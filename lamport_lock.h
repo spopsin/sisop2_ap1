@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define N 10  // Número de threads
+#define N 3 // Número de threads
 
 extern int choosing[N];  
 extern int ticket[N];    

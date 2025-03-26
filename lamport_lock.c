@@ -3,10 +3,6 @@
 int choosing[N];
 int ticket[N];
 
-void dormir() {
-    usleep((rand() % 11) * 100000);  // Dormir entre 0 e 1000 ms
-}
-
 int max_ticket() {
     int max = 0;
     for (int i = 0; i < N; i++) {
