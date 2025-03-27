@@ -1,8 +1,5 @@
 #include "lamport_lock.h"
 
-int choosing[N];
-int ticket[N];
-
 int max_ticket() {
     int max = 0;
     for (int i = 0; i < N; i++) {

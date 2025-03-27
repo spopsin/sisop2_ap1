@@ -8,12 +8,11 @@
 
 #define N 3 // Número de threads
 
-extern int choosing[N];  
-extern int ticket[N];    
+volatile int choosing[N];  
+volatile int ticket[N];    
 
 void lamport_mutex_init();
 void lamport_mutex_lock(int thread_id);
 void lamport_mutex_unlock(int thread_id);
-void dormir();
 
 #endif

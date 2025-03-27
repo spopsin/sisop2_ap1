@@ -15,8 +15,8 @@
 
 #define num_threads 3
 
-int shared_var = 0;
-int num_rep = 30000000;
+long long shared_var = 0;
+int num_rep = 30000;
 
 struct thread_info {
     pthread_t id;
@@ -74,7 +74,7 @@ int main(int argc, char **argv)
         printf("Joined with thread %d, id %lu\n", tinfo[thread_num].num, tinfo[thread_num].id);
         free(res);
     }
-    printf("Global var: %d\n", shared_var);
+    printf("Global var: %lld\n", shared_var);
     
     exit(EXIT_SUCCESS);
 }
