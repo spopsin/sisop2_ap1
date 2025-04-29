@@ -1,0 +1,204 @@
+Execução 1:
+Tempo: 7.550 s
+Execução 2:
+Tempo: 8.102 s
+Execução 3:
+Tempo: 7.019 s
+Execução 4:
+Tempo: 7.855 s
+Execução 5:
+Tempo: 8.492 s
+Execução 6:
+Tempo: 9.883 s
+Execução 7:
+Tempo: 7.708 s
+Execução 8:
+Tempo: 9.419 s
+Execução 9:
+Tempo: 9.617 s
+Execução 10:
+Tempo: 7.311 s
+Execução 11:
+Tempo: 9.449 s
+Execução 12:
+Tempo: 8.353 s
+Execução 13:
+Tempo: 6.620 s
+Execução 14:
+Tempo: 6.488 s
+Execução 15:
+Tempo: 8.902 s
+Execução 16:
+Tempo: 9.133 s
+Execução 17:
+Tempo: 8.681 s
+Execução 18:
+Tempo: 9.399 s
+Execução 19:
+Tempo: 8.367 s
+Execução 20:
+Tempo: 8.742 s
+Execução 21:
+Tempo: 6.930 s
+Execução 22:
+Tempo: 8.939 s
+Execução 23:
+Tempo: 9.356 s
+Execução 24:
+Tempo: 9.247 s
+Execução 25:
+Tempo: 9.777 s
+Execução 26:
+Tempo: 8.637 s
+Execução 27:
+Tempo: 9.402 s
+Execução 28:
+Tempo: 9.024 s
+Execução 29:
+Tempo: 6.105 s
+Execução 30:
+Tempo: 8.558 s
+Execução 31:
+Tempo: 4.590 s
+Execução 32:
+Tempo: 9.147 s
+Execução 33:
+Tempo: 6.363 s
+Execução 34:
+Tempo: 5.021 s
+Execução 35:
+Tempo: 7.746 s
+Execução 36:
+Tempo: 4.100 s
+Execução 37:
+Tempo: 4.823 s
+Execução 38:
+Tempo: 4.141 s
+Execução 39:
+Tempo: 5.249 s
+Execução 40:
+Tempo: 4.475 s
+Execução 41:
+Tempo: 4.937 s
+Execução 42:
+Tempo: 3.468 s
+Execução 43:
+Tempo: 3.598 s
+Execução 44:
+Tempo: 4.159 s
+Execução 45:
+Tempo: 4.034 s
+Execução 46:
+Tempo: 3.325 s
+Execução 47:
+Tempo: 4.408 s
+Execução 48:
+Tempo: 3.408 s
+Execução 49:
+Tempo: 3.774 s
+Execução 50:
+Tempo: 4.393 s
+Execução 51:
+Tempo: 4.587 s
+Execução 52:
+Tempo: 6.188 s
+Execução 53:
+Tempo: 8.678 s
+Execução 54:
+Tempo: 9.282 s
+Execução 55:
+Tempo: 9.575 s
+Execução 56:
+Tempo: 9.374 s
+Execução 57:
+Tempo: 3.770 s
+Execução 58:
+Tempo: 3.473 s
+Execução 59:
+Tempo: 2.184 s
+Execução 60:
+Tempo: 2.516 s
+Execução 61:
+Tempo: 2.269 s
+Execução 62:
+Tempo: 2.207 s
+Execução 63:
+Tempo: 2.337 s
+Execução 64:
+Tempo: 3.186 s
+Execução 65:
+Tempo: 4.472 s
+Execução 66:
+Tempo: 2.972 s
+Execução 67:
+Tempo: 3.800 s
+Execução 68:
+Tempo: 2.752 s
+Execução 69:
+Tempo: 2.949 s
+Execução 70:
+Tempo: 4.438 s
+Execução 71:
+Tempo: 3.295 s
+Execução 72:
+Tempo: 2.129 s
+Execução 73:
+Tempo: 2.412 s
+Execução 74:
+Tempo: 2.123 s
+Execução 75:
+Tempo: 2.081 s
+Execução 76:
+Tempo: 2.115 s
+Execução 77:
+Tempo: 2.052 s
+Execução 78:
+Tempo: 2.325 s
+Execução 79:
+Tempo: 2.450 s
+Execução 80:
+Tempo: 2.611 s
+Execução 81:
+Tempo: 3.558 s
+Execução 82:
+Tempo: 2.389 s
+Execução 83:
+Tempo: 2.083 s
+Execução 84:
+Tempo: 2.531 s
+Execução 85:
+Tempo: 2.203 s
+Execução 86:
+Tempo: 1.932 s
+Execução 87:
+Tempo: 2.239 s
+Execução 88:
+Tempo: 2.378 s
+Execução 89:
+Tempo: 2.129 s
+Execução 90:
+Tempo: 2.296 s
+Execução 91:
+Tempo: 2.566 s
+Execução 92:
+Tempo: 3.989 s
+Execução 93:
+Tempo: 5.104 s
+Execução 94:
+Tempo: 6.034 s
+Execução 95:
+Tempo: 4.519 s
+Execução 96:
+Tempo: 3.778 s
+Execução 97:
+Tempo: 5.342 s
+Execução 98:
+Tempo: 2.752 s
+Execução 99:
+Tempo: 2.340 s
+Execução 100:
+Tempo: 2.048 s
+Resumo após 100 execuções:
+Tempo médio: 5.250 s
+Tempo mínimo: .999 s
+Tempo máximo: 9.883 s
